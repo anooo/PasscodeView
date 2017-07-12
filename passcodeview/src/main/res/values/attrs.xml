@@ -8,5 +8,6 @@
         <attr name="controlColorActivated" format="color"/>
         <attr name="digitColorFilled" format="color"/>
         <attr name="digitColorBorder" format="color"/>
+        <attr name="digitInnerRadius" format="dimension"/>
     </declare-styleable>
 </resources>
